@@ -1,0 +1,16 @@
+main {
+    text-align: center;
+    display:flex;
+
+}   
+
+a:hover{
+    cursor: pointer;
+}
+
+section {
+min-height: 33%;
+justify-content: space-evenly;
+align-items: center;
+flex-direction: column;
+}
